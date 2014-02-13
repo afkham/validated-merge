@@ -13,6 +13,8 @@
 
   <!-- get every artifact through repo.jenkins-ci.org, which proxies all the artifacts that we need 
   Edit 2 
+  
+  Edit -3 
   -->
   <repositories>
     <repository>
