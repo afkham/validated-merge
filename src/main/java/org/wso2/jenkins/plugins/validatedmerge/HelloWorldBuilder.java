@@ -37,7 +37,7 @@ public class HelloWorldBuilder extends Builder {
 
     private final String name;
 
-    // Fields in config.jelly must match the parameter names in the "DataBoundConstructor"
+    // -- Fields in config.jelly must match the parameter names in the "DataBoundConstructor"
     @DataBoundConstructor
     public HelloWorldBuilder(String name) {
         this.name = name;
